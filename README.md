@@ -1,6 +1,4 @@
-# tsa_dsu_s2024
-
-Data Science Union 2024 Spring
+# TSA_DSU_S2024
 
 Project Name: Time-series Analysis - Crude Oil Price Prediction
 
