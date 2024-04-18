@@ -15,7 +15,7 @@ Gain insights in real-world economics through EDAs among prices of natural resou
 (Optimistically) end up with a Medium article for demonstration
 
 ## Dataset Link: 
-[https://docs.google.com/spreadsheets/d/136sVhUNMIZlCs_nLo7oAEXacEMxfWCHd/edit?usp=sharing&ouid=115187781823813664251&rtpof=true&sd=true]
+https://docs.google.com/spreadsheets/d/136sVhUNMIZlCs_nLo7oAEXacEMxfWCHd/edit?usp=sharing&ouid=115187781823813664251&rtpof=true&sd=true
 
 ## Week-by-Week Timeline
 -    Week 2: Project Planning & Data Visualization
