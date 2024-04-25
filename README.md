@@ -26,3 +26,8 @@ https://docs.google.com/spreadsheets/d/136sVhUNMIZlCs_nLo7oAEXacEMxfWCHd/edit?us
 -    Weeks 6-7: LSTM modeling, model evaluation, comparison of the two methods 
 -    Week 8: EDAs surrounding oil price (how it is influenced, influencing, and what it tells)
 -    Week 9: Finalize Presentation
+
+## TODO
+# EDA on price dataset:
+-  Major drawdown
+-  
