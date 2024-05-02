@@ -4,6 +4,8 @@ Project Name: Time-series Analysis - Crude Oil Price Prediction
 
 Resources: https://docs.google.com/document/d/1F2ppn0D08URSbzuFkTldKlwUVnRCuZbYcU6Q-oASZwc/edit?usp=sharing
 
+EDA Questions: https://docs.google.com/document/d/1-z0JtNvQL2qA5qEbTkTq-mXDhsEkwO1S0iEvx9APG3c/edit?usp=sharing
+
 ## Overview
 
 This project is open to anyone who is interested in predicting the future from history! We will look into the stock price of Brent Crude Oil from 2000 to 2024, a time-series data in the global arena, and manage to forecast the future price based on historical performance.
