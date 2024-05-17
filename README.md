@@ -1,5 +1,7 @@
 # TSA_DSU_S2024
 
+change some readme
+
 Project Name: Time-series Analysis - Crude Oil Price Prediction
 
 Resources: https://docs.google.com/document/d/1F2ppn0D08URSbzuFkTldKlwUVnRCuZbYcU6Q-oASZwc/edit?usp=sharing
