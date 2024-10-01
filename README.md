@@ -15,8 +15,9 @@ This project is open to anyone who is interested in predicting the future from h
 Unlike traditional statistical modeling or machine learning, time-series analysis has very limited data: one at a given time. This project aims to examine some classical approaches to deal with time-series data, covering ARIMA (autoregressive integrated moving average), a statistical method popular for time-series in econometrics, as well as LSTM, the deep learning branch well-known for sequence tasks. Besides, we could do more EDAs to try to find relationships among oil price, gold price and the value of USD, gaining a better understanding of oil price as a real-world indicator.
 
 ## Goals
-Walk through an entire ARIMA procedure for a solid understanding in time-series analysis
+Walk through an entire ARIMA/GARCH procedure for a solid understanding in time-series analysis
 Build an LSTM model to forecast the oil price
+Tryout diverse models for time series analysis: Hidden Markov Model (Best Performance of all), Random Forest, XGBoosting, Autoregressive Poisson, etc etc.
 Gain insights in real-world economics through EDAs among prices of natural resources, gold price and USD value
 (Optimistically) end up with a Medium article for demonstration
 
