@@ -31,7 +31,3 @@ https://docs.google.com/spreadsheets/d/136sVhUNMIZlCs_nLo7oAEXacEMxfWCHd/edit?us
 -    Week 8: EDAs surrounding oil price (how it is influenced, influencing, and what it tells)
 -    Week 9: Finalize Presentation
 
-## TODO
-# EDA on price dataset:
--  Major drawdown
--  
