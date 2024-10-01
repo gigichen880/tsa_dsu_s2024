@@ -23,6 +23,7 @@ Gain insights in real-world economics through EDAs among prices of natural resou
 
 ## Dataset Link: 
 https://docs.google.com/spreadsheets/d/136sVhUNMIZlCs_nLo7oAEXacEMxfWCHd/edit?usp=sharing&ouid=115187781823813664251&rtpof=true&sd=true
+Also refer to MinuteData folder for WTI minute data offered kindly by Casey
 
 ## Week-by-Week Timeline
 -    Week 2: Project Planning & Data Visualization
